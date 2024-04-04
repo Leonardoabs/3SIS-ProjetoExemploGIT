@@ -10,7 +10,7 @@ import org.junit.Test;
 //Testes unitários do elevador
 public class ElevadorTeste {
 
-	Elevador elevadorX = new Elevador();
+	Elevador elevador = new Elevador();
 
 	//Inicialização da Carga Atual do elevador
 	@Before
